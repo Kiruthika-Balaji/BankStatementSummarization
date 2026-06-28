@@ -1,7 +1,6 @@
 ﻿import tkinter as tk
 from tkinter import filedialog, messagebox
 import pdfplumber
-import camelot
 import pandas as pd
 import re
 
