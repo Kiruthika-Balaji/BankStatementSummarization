@@ -76,4 +76,3 @@ for file in file_paths:
 print(f"\nCanara Credits: ₹{canara_total:,.2f}")
 print(f"SBI Credits:    ₹{sbi_total:,.2f}")
 print(f"TOTAL:          ₹{(canara_total + sbi_total):,.2f}")
-input("Press Enter...")
